@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Student Database Manager.**
 
-- 🌱 I’m currently learning **React js and django.**
+- 🌱 I’m currently learning **Cloud computing Services**
 
 - 🤝 I’m looking for help with **AI AND ML**
 
